@@ -8,7 +8,7 @@ When using this dictionary for academic purposes, please cite our article:
 @INPROCEEDINGS{
     AUTHOR="Helder Yukio Okuno and Flavio Carvalho and Gustavo Guedes",
     TITLE="MAAT: Multisensorial Audiobooks Authoring Tool",
-    BOOKTITLE="39th International Conference of the Chilean Computer Science Society (SCCC 2020)",
+    BOOKTITLE="Brazilian Symposium on Multimedia and the Web (WebMedia '21)",
     ADDRESS="Minas Gerais, Brazil",
     DAYS="5--12",
     MONTH="nov",
